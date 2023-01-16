@@ -1,0 +1,2 @@
+# Contactsint
+This is your secret agent for gathering contact information! It uses the Python libraries 'requests' and 'BeautifulSoup' to read a list of websites from a text file and then goes undercover to find elements with the class "contact", "phone", and "email" like a pro. Once it uncovers the information, it prints it out for you like a faithful assistant, saving you hours of manual searching! This script can be a great help when you need to collect contact information from multiple websites in an automated way.
